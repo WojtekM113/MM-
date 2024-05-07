@@ -20,3 +20,4 @@ gallery:
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
+---

@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "WojciechM"
+  name   : "Wojciech Mendlikowski"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Game developer"
   links:
