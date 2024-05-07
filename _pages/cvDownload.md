@@ -4,5 +4,6 @@ permalink: /CV/
 layout: single
 ---
 PL version
-[Download CV (PDF)](https://drive.google.com/file/d/1T0uuEnaRS3sdqowQisIQ47PTNgekWhLk/preview){: .btn .btn--success target="_blank"}
+[Download CV (PDF)](https://drive.google.com/file/d/1XeZNPlYzM5fdE1rjn7AMk52scUYAEwF2/preview){: .btn .btn--success target="_blank"}
 
+ 
