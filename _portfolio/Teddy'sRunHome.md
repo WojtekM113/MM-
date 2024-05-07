@@ -7,7 +7,7 @@ sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
     image_alt: "logo"
-    text: "game developer"
+    text: "programming"
   - title: "Responsibilities"
     text: "Score and High Score, UI programming(menu, pause menu, death screen, in game hud), Stars to pick up, some bugfixes "
 gallery:
@@ -21,3 +21,4 @@ gallery:
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
 ---
+{% include youtubePlayer.html id=page._HQ1xjk_1Vs %}
