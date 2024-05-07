@@ -22,3 +22,6 @@ gallery:
     alt: "placeholder image 3"
 ---
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/76L3mC4Ndx8?si=O8vtnCbbQmTyNpnF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+2D and 3D assets are not mine but created by artists in our group.
+Game is still WIP.
