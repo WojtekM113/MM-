@@ -21,4 +21,5 @@ gallery:
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
 ---
-<https://w4rkwww.itch.io/dont-touch-light>
+Playable game: <https://w4rkwww.itch.io/dont-touch-light>
+GitHub repo: https://github.com/WojtekM113/GameFor_1Bit-Jam
