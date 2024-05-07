@@ -21,4 +21,4 @@ gallery:
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
 ---
-{% include youtubePlayer.html id=page._HQ1xjk_1Vs %}
+{% include youtubePlayer.html id=page.HQ1xjk_1Vs %}
