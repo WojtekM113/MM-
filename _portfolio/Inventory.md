@@ -9,7 +9,7 @@ sidebar:
     image_alt: "logo"
     text: "programming"
   - title: "Responsibilities"
-    text: "graphics, gameplay, programming, design"
+    text: "programming, design"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
