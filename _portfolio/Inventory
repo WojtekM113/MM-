@@ -2,7 +2,7 @@
 title: "Basic 'Inventory' "
 excerpt: "Scriptable objects, use of database"
 header:
-  teaser:  
+  teaser:  assets/images/Empty.png
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
