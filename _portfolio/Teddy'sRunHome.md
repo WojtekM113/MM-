@@ -2,7 +2,7 @@
 title: "Teddy's run home!"
 excerpt: "Endles Runner"
 header:
-  teaser: assets/images/QNxQpz.png
+  teaser: assets/images/logo.png
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
