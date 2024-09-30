@@ -27,6 +27,4 @@ Elden Ring
 Minecraft
 
 Antichamber
-
-~~League of Legends~~
  
