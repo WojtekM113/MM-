@@ -62,10 +62,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://https://wojtekm113.github.io/MM-/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/WojtekM113"
@@ -73,12 +70,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "WojtekM113"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/WojtekM113"
 
 defaults:
   # _posts

@@ -1,6 +1,6 @@
 ---
-title: "Portfolio"
-layout: single
+title: "Home page"
+layout: home
 permalink: /home/
 classes: wide   
 ---
