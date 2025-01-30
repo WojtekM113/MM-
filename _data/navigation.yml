@@ -1,11 +1,5 @@
 main:
-  -title: "home"
-  url: /home/
-  - title: "Posts"
-    url: /posts/
-  - title: "About Me"
-    url: /about/
-  - title: "Portfolio"
+  - title: "home"
+    url: /home/
+  - title: "portfolio"
     url: /portfolio/
-  - title: "CV"
-    url: /CV/

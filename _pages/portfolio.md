@@ -1,8 +1,9 @@
 ---
-title: "Portfolio"
+title: "portfolio"
 layout: collection
 permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
 classes: wide   
+author_profile: true
 ---
