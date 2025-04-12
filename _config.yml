@@ -57,11 +57,11 @@ plugins:
 author:
   name   : "Wojciech Mendlikowski"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Game developer"
+  bio    : "Game developer, gameplay programmer"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/WojtekM113"
+      url: "https://github.com/WojtekM113/home"
 
 
 footer:
